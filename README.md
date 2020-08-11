@@ -8,4 +8,6 @@ And Now to install it go to:
 
 http://yourhost.com/tfuss/install
 
+After installation go to your phpmyadmin and import the test.sql on it.
+
 Currently there is test for Simple SQL, Batched SQL and XSS Injection available.
