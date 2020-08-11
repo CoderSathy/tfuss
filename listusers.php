@@ -9,7 +9,7 @@
 
 <center>
    <h1>Testable Fuss Project</h1>
-   <p>Type the user name here for eg: user1  nad see its details.</p>
+   <p>Type the user id here for eg: 3  nad see its details.</p>
 <br><br>
 
 <div class="search">
